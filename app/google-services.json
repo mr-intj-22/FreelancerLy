@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546513534538",
+    "firebase_url": "https://freelancer-ly.firebaseio.com",
+    "project_id": "freelancer-ly",
+    "storage_bucket": "freelancer-ly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546513534538:android:82a00adeb7812d52",
+        "android_client_info": {
+          "package_name": "com.freelancer.msl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546513534538-hpecbukdr44orppivlnk1so6afl7j6td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjuORtH0TkpJak41eb3DE4H_snp5MImI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
